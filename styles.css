@@ -1,0 +1,36 @@
+*{
+    background-color: grey;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    background-color: greenyellow;
+}
+
+p{
+    background-color: coral;
+}
+
+p.Blue{
+    background-color: blue;
+
+}
+
+.Green{
+    background-color: green;
+}
+
+#especial1{
+    background-color: pink;
+}
+
+#negro{
+    background-color: black;
+}
+
